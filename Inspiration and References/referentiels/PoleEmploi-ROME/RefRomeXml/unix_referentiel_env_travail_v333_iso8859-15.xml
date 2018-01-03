@@ -1,0 +1,4581 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<ogr>
+ <item_referentiel_env_travail>
+  <code_ogr>23374</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Au domicile de l'intervenant</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23375</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Au domicile de particulier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23376</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Au pied des installations</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23377</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En environnement climatique difficile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23378</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En extérieur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23379</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En grande hauteur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23380</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En salle blanche</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23381</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En salle de pilotage, cabine de commande</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23382</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En sous-sol</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23383</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En zone à atmosphère contrôlée</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23384</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En zone à risques chimiques (toxicité, corrosivité, explosibilité, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23385</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>En zone frigorifique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23386</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Accessoires de mode</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23387</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Activités maritimes spécialisées (recherche, avitaillement off shore,...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23388</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Administration / Services de l'Etat</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23389</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Administration pénitentiaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23390</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Aérien</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23391</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Aéronautique, spatial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23392</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Aéronavale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23393</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Agencement, décoration intérieure</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23394</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Agriculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23395</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Alimentaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23396</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Alimentation animale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23397</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Aménagement d'espaces verts, de parcs et de jardins</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23398</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Ameublement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23399</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Aquaculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23400</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Arme Blindée</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23401</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Armée</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23402</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Armée de l'air</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23403</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Armée de Terre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23404</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Armement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23405</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Artillerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23406</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Arts de la table</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23407</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Arts plastiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23408</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Assurance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23409</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Audiovisuel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23410</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Automobile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23411</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Balnéothérapie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23412</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Banque</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23413</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Banque de réseau</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23414</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Banque privée</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23415</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bâtiment domestique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23416</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bâtiment gros oeuvre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23417</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bâtiment industriel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23418</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bâtiment second oeuvre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23419</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bâtiment tertiaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23420</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bâtiment et Travaux Publics -BTP-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23421</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Béton (armé, manufacturé, pré-contraint)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23422</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bijouterie, joaillerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23423</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Blanchisserie industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23424</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bois, ameublement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23425</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Boissons, alcools</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23426</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bonneterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23427</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Boulangerie, pâtisserie industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23428</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Broderie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23429</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Bureautique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23430</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Carrosserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23431</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chapellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23432</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Charcuterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23433</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chaudronnerie, tuyauterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23434</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chauffage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23435</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chaussure</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23436</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chimie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23437</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chimie fine</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23438</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chimie minérale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23439</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chimie organique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23440</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Chocolat, confiserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23441</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Cinéma</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23442</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Combustibles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23443</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Commerce</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23444</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Commerce de gros</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23445</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Commerce/grande distribution</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23446</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Commerce/vente</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23447</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Commissionnaire en douane</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23448</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Communication</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23449</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Conditionnement, emballage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23450</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Confection textile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23451</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Conserves, surgelés</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23452</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Constructeur de matériel informatique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23453</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Construction navale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23454</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Corderie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23455</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Coutellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23456</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Cuisines professionnelles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23457</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Cycle, motocycle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23458</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Défense nationale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23459</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Démolition</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23460</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Dentelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23461</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Dépannage sur route</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23462</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Discount</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23463</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Distribution de journaux et publicité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23464</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Distribution d'eau potable</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23465</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Distribution d'électricité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23466</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Douanes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23467</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Eau</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23468</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Eclairage public</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23469</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Eco-industrie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23470</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Editeur multimédia</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23471</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Edition</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23472</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Edition textile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23473</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Education / Enseignement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23474</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Electricité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23475</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Electromécanique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23476</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Electroménager</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23477</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Electronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23478</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage de coquillages et crustacés</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23479</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Emploi</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23480</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Energie, nucléaire, fluide</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23481</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Ennoblissement textile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23482</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Enseigne/signalétique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23483</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Enseignement privé hors contrat</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23484</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Enseignement privé sous contrat</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23485</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Environnement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23486</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Equipement sanitaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23487</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Evènementiel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23488</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication de chalets et de maisons à ossature bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23489</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication de charpentes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23490</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication de jouets en bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23491</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication de panneaux bois et dérivés</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23492</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication de parquets, lambris, moulures, ...</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23493</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication de produits textiles (tricotage, tissage, nontissé)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23494</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication de revêtements de sols (moquette, ....)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23495</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication d'emballages</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23496</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fabrication et réparation de systèmes horlogers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23497</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Façonnage/routage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23498</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Ferroviaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23499</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Filature</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23500</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Filterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23501</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Finance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23502</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fonderie, forge</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23503</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Froid commercial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23504</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Froid et conditionnement d'air</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23505</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Froid industriel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23506</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Fusilier marin / Fusilier commando</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23507</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Ganterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23508</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Gaz</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23509</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Gendarmerie Nationale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23510</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Génie civil</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23511</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Génie militaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23512</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Grande pêche</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23513</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Guipage/Passementerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23514</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Habillement et accessoires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23515</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Habillement, cuir, textile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23516</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Haute couture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23517</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Horlogerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23518</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Horticulture - maraîchage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23519</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Hôtellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23520</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Huiles, corps gras, margarines</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23521</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Hydroélectrique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23522</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Hydrothérapie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23523</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Immobilier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23524</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Imprimerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23525</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Imprimerie de labeur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23526</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Imprimerie de presse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23527</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Imprimerie d'édition</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23528</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Industrie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23529</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Industrie céramique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23530</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Industrie cosmétique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23531</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Industrie du papier, carton</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23532</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Industrie graphique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23533</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Industrie mécanique du bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23534</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Information et communication</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23535</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Informatique et télécommunications</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23536</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Instrumentation médicale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23537</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Internet et Multimédia</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23538</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Jouets</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23539</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Lait, produits laitiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23540</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Légion étrangère</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23541</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Levage, manutention</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23542</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Linge de maison</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23543</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Loisirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23544</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Machinisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23545</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Maintenance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23546</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Maréchalerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23547</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Marine marchande</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23548</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Marine Nationale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23549</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Maritime, fluvial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23550</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Maroquinerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23551</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Matériaux de construction</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23552</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Mécanique, travail des métaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23553</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Médecine nucléaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23554</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Médical</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23555</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Médicosocial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23556</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Médico-technique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23557</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Menuiserie industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23558</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Métallurgie, sidérurgie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23559</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Meunerie, café</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23560</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Microélectronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23561</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Micromécanique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23562</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Mode</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23563</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Monnaie, titre et poinçon</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23564</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Motoculture de plaisance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23565</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Moulinage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23566</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Nanoélectronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23567</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Nautisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23568</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Optique, optronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23569</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Orfèvrerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23570</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Papeterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23571</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Papiers à usage graphique (papier journal, papier d'écriture, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23572</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Papiers industriels et spéciaux (fiduciaire, papier filtre, papier abrasif, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23573</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Parachimie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23574</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Parapharmacie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23575</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Parfumerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23576</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Patrimoine culturel et historique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23577</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Pêche</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23578</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Pêche au large</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23579</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Pêche côtière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23580</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Pelleterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23581</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Petite enfance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23582</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Pétrochimie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23583</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Pétrole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23584</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Pisciculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23585</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Plasturgie, caoutchouc, composites</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23586</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Plâtre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23587</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Poissonnerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23588</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Police de l'air et des frontières</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23589</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Police judiciaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23590</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Police militaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23591</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Police nationale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23592</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Police Nationale et Gendarmerie Nationale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23593</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Première transformation du bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23594</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Prépresse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23595</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Presse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23596</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Prêt à porter</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23597</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Prêt-à-porter</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23598</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Production et distribution d'électricité, de gaz et d'eau</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23599</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Produits à base de céréales</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23600</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Produits culturels (disques, DVD, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23601</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Produits de la mer</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23602</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Propreté, nettoyage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23603</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Publicité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23604</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Puériculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23605</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Quincaillerie, droguerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23606</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Radio</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23607</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Radiologie conventionnelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23608</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Radiologie vasculaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23609</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Recherche et développement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23615</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Renseignement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23616</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Réparations automobile et d'articles domestiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23617</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Reprographie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23618</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Réseau d'assainissement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23619</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Réseau ferré</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23620</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Réseau routier, autoroutier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23621</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Résidentiel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23622</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Restauration</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23623</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Retoucherie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23624</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Revêtements textiles (tapis de sols et moquettes en aiguilleté, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23625</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Santé et action sociale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23626</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Scientifique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23627</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Scierie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23628</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Seconde transformation du bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23629</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Secours et assistance à personnes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23630</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Sécurité routière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23631</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Sécurité, hygiène, environnement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23632</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Sellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23633</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Serrurerie et fermetures extérieures</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23634</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Service de Soins Infirmiers à domicile -SSIAD-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23635</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Service funéraire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23636</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Services</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23637</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Services à la personne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23638</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Spectacle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23639</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Spectacle vivant</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23640</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Sport et loisirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23641</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Structures métalliques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23642</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Sucre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23643</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Surgelés</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23644</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Surveillance du territoire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23645</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Sylviculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23646</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Tannerie, mégisserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23647</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Téléphonie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23648</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Télévision</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23649</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Thalassothérapie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23650</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Thermalisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23651</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Tissage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23652</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Tourisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23653</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Tourisme rural</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23654</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Transformation des matériaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23655</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Transport (aérien, ferroviaire, maritime, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23656</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Transport de marchandises</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23657</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Transport de personnes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23658</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Transport d'électricité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23659</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Transport/logistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23660</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Travaux publics</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23661</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Troupes parachutistes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23662</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Tuile et brique en terre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23663</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Tuiles et briques en béton</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23664</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Vaisselle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23665</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Véhicules industriels</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23666</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Véhicules particuliers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23667</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Vente par correspondance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23668</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Verre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23669</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Verre creux (emballage, bouteilles, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23670</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Verre de silice (verre de manipulation pour laboratoire, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23671</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Verre plat (vitrage, bâtiment, automobile, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23672</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Verre technique (optique, écrans de télévision, ampoules, vitrocéramique, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23673</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Verre, matériaux de construction</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23674</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Verrerie d'art</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23675</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Vêtements de protection</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23676</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Viande</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23677</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Voiries et Réseaux Divers -VRD-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23678</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Abattoir</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23679</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Aciérie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23680</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Aéroclub</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23681</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Aérodrome</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23682</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Aéroport</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23683</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence artistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23684</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence commerciale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23685</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de castings</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23686</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de communication</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23687</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de design</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23688</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de l'Eau</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23689</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de mannequins</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23690</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de presse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23691</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de promotion et de marketing direct</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23692</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de publicité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23693</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de sécurité sanitaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23694</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de tourisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23695</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence de voyages</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23696</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence d'évènementiel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23697</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence d'illustration (photothèque)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23698</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence et syndic immobilier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23699</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence littéraire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23700</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Agence postale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23701</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ambassade</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23702</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Animalerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23703</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Annonceur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23704</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Armateur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23705</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Armurerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23706</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Association</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23707</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Association à caractère social</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23708</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Association culturelle ou de loisirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23709</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Association de protection de la nature</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23710</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Association d'insertion</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23711</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Association familiale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23712</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Atelier d'artiste</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23713</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Atelier de confection</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23714</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Atelier de décors</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23715</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Atelier de réparation/Service Après-Vente -SAV-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23716</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Atelier intégré</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23717</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bar à thème</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23718</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bateau école</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23719</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bibliothèque, centre de documentation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23720</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Billetterie spectacle (cinéma, théâtre, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23721</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Boucherie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23722</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Boucherie-charcuterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23723</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Boulangerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23724</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Boutique de luxe</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23725</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Boutique, commerce de détail</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23726</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Brasserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23727</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Brasserie artisanale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23728</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Brigade de contrôle et de recherche</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23729</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Brocante</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23730</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bureau de change de devise</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23731</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bureau de contrôle technique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23732</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bureau de coordonnateurs Sécurité et Protection de la Santé -SPS-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23733</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bureau de design intégré</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23734</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bureau de style, de tendance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23735</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Bureau d'études et d'ingénierie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23736</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabane à crêpes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23737</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabaret</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23738</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet comptable</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23739</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet d'architectes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23740</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet de courtage en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23741</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet de géomètres</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23742</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet de métrés</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23743</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet de recrutement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23744</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet dentaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23745</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet d'expertise maritime</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23746</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet d'ophtalmologie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23747</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet d'orthophonie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23748</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet d'orthoptie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23749</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet juridique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23750</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cabinet médical</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23751</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Café, bar</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23752</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Caisse d'assurance maladie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23753</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Caisse de retraite et de prévoyance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23754</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Casino</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23755</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cave d'affinage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23756</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cave vinicole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23757</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cellule conseil de la douane</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23758</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centrale d'achat</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23759</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centrale de béton prêt à l'emploi</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23760</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centrale de réservation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23761</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centrale de traitement d'enrobés</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23762</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centrale nucléaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23763</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre auto, service rapide</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23764</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre d'adaptation à la vie active</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23765</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement et service d'aide par le travail (ESAT)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23766</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre d'appels</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23767</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de bilan de compétences</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23768</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de contrôle régional</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23769</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de contrôle technique automobile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23770</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de formation des apprentis</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23771</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de formation pour adultes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23772</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Accueil de loisirs sans hébergement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23773</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de médecine du travail</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23774</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de Protection Maternelle et Infantile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23776</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de rééducation et de réadaptation fonctionnelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23777</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de remise en forme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23778</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de santé</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23779</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre de Surveillance du Commerce Electronique (CSCE)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23780</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Accueil collectif de mineurs (ACM)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23781</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre d'enseignement à distance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23782</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre des impôts</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23783</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre d'imagerie médicale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23784</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre d'information et d'orientation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23785</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre d'insémination</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23786</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre du renseignement, d'orientation et de contrôle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23787</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre équestre / Club hippique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23788</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre médico-psychologique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23789</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre Régional de la Propriété Forestière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23790</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre socioculturel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23791</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre technique agréé</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23792</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cercle de jeux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23793</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Chaîne de télévision</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23794</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Champignonnière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23795</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Chenil</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23796</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Chocolaterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23797</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cidrerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23798</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cimenterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23799</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cinéma art et essai</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23800</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cinéma en plein air</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23801</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cinéma généraliste</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23802</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cinéma itinérant</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23803</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cinéma multiplexe</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23804</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cinémathèque</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23805</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cirque</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23806</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Club du troisième âge</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23807</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Club sportif</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23808</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Collectivité territoriale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23809</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Collège</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23810</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Comité d'entreprise</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23811</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Commissionnaire de transport</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23812</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Communauté d'agglomération</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23813</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Communauté de communes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23814</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Communauté urbaine</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23815</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Commune de - de 5000 habitants</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23816</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Commune de + de 20000 habitants</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23817</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Commune de + de 3500 habitants</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23818</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Commune de 5000 à 20000 habitants</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23819</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Compagnie aérienne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23820</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Compagnie aérienne avion-taxi</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23821</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Compagnie artistique (théâtre, danse, arts de la rue, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23822</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Compagnie d'assurances/mutuelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23823</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Compagnie de transport maritime</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23824</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Compagnie fluviale de tourisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23825</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Compagnie pétrolière/gazière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23826</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Concession automobile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23827</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Confiserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23828</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Conseil de Prud'hommes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23829</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Conseil général</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23830</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Conseil régional</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23831</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Constructeur aéronautique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23832</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Consulat</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23833</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Coopérative agricole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23834</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Coopérative forestière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23835</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cordonnerie multiservices</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23836</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cordonnerie traditionnelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23837</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cour d'appel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23838</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cour d'assises</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23839</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cour de cassation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23840</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Crèmerie / fromagerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23841</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Crêperie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23842</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Cuisine centrale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23843</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Débit de tabac</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23844</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Déchetterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23845</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Dépôt-vente</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23847</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Direction départementale des affaires sanitaires et sociales</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23848</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Direction générale de la concurrence, de la consommation et de la répression des fraudes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23849</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Direction générale de l'aviation civile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23850</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Direction générale des impôts</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23852</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Direction Régionale des Affaires Sanitaires et Sociales</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23853</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ecole de conduite</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23854</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ecole d'enseignement artistique et conservatoire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23855</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ecole maternelle et primaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23856</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ecurie de course auto/moto</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23857</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage de canidés (chiens, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23858</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage de félidés (chats, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23859</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage de gastéropodes (escargots, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23860</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage de gibiers (sangliers, chevreuils, lièvres, faisans, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23861</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage de mustélidés (visons, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23862</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage de reptiles (crocodiles, serpents, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23863</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage de rongeurs (rats, souris, gerbilles, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23864</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage d'estive</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23865</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage d'insectes (abeilles, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23866</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Elevage d'oiseaux (autruches, perroquets, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23867</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23868</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise alimentaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23869</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise aquacole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23870</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise artisanale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23871</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise commerciale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23872</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise d'activités maritimes/portuaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23873</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de déménagement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23874</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de fabrication d'articles textiles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23875</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de fabrication d'instruments de musique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23876</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de fabrication/réparation d'articles en cuir</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23877</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de forage/extraction</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23878</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de levage, manutention</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23879</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de location de bateau de plaisance fluviale avec équipage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23880</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de location de matériels</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23881</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de location de véhicules</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23882</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de maraîchage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23883</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de mareyage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23884</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de messagerie/fret express</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23885</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de services funéraires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23886</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de taille de pierres</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23887</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transfert industriel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23888</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23889</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport de personnes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23890</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport exceptionnel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23891</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport ferroviaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23892</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport fluvial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23893</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport fluvial de marchandises</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23894</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport fluvial de personnes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23895</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport maritime de marchandises</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23896</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport maritime de personnes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23897</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport multi-modal (fret maritime, fluvial, ferroviaire, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23898</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport routier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23899</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport sanitaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23900</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de transport/messagerie/groupage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23901</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de travail temporaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23902</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de travaux agricoles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23903</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de Travaux Agricoles /parcs et jardins</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23904</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de travaux forestiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23905</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise d'édition phonographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23906</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise d'insertion</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23907</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise du paysage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23908</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise horticole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23909</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23910</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise industrielle de transformation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23911</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise Moyenne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23912</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise publique/établissement public</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23913</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Equipementier du transport (aéronef, car, train, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23914</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement bancaire et financier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23915</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement de jeux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23916</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement de nuit (discothèque, cabaret, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23917</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement de restauration mobile (bateau de croisière, train, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23918</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement de restauration rapide</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23919</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement de soins vétérinaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23920</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement d'enseignement spécialisé</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23921</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement du sang</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23922</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement médical (hôpital, clinique, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23923</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement pénitentiaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23924</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement scolaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23925</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement/organisme de recherche</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23926</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etude de commissaire-priseur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23927</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etude d'huissier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23928</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etude notariale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23929</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Exploitation agricole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23930</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Exploitation arboricole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23931</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Exploitation cidricole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23932</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Exploitation forestière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23933</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Exploitation viticole / vinicole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23934</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Fabricant assembleur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23935</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Fabricant d'appareillage auditif</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23936</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Fabricant de matériel/mobilier médical</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23937</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Fédération sportive</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23938</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ferme d'élevage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23939</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ferme expérimentale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23940</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Fondation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23941</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Force navale et sous-marine</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23942</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Foyer / centre d'hébergement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23943</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Foyer rural</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23944</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Fromagerie artisanale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23945</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Fromagerie industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23946</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Galerie d'art</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23947</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Garage automobile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23948</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Garde-meuble</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23949</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Grand magasin</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23950</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Grande entreprise</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23951</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Grande et Moyenne Surface -GMS-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23952</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Grande Surface Alimentaire -GSA-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23953</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Grande Surface de Bricolage -GSB-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23954</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Grande Surface Spécialisée -GSS-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23955</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Groupement de propriétaires forestiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23956</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Haras</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23957</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23958</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtel 1 étoile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23959</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtel 2 étoiles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23960</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtel 3 étoiles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23961</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtel 4 étoiles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23962</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtel 5 étoiles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23963</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtel économique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23964</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtel non homologué ou non classé</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23965</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtellerie de plein air</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23966</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hôtellerie mobile (bateau de croisière, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23967</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Hypermarché (2500 m² et +)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23969</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Industrie manufacturière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23970</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Infrastructure sportive</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23971</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Inspection du Travail et des Transports</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23972</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Inspection du Travail, de l'Emploi et de la Politique Sociale Agricole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23973</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Installateur-intégrateur courants faibles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23974</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Institut de beauté</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23975</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme de formation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23976</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Institut de l'élevage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23977</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Institut de médecine légale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23978</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Institution parlementaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23979</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Jardinerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23980</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Juridiction (tribunal de commerce, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23981</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Kiosque à journaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23982</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Kiosque à pizzas</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23983</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Laboratoire cinématographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23984</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Laboratoire d'analyses</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23985</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Laboratoire d'analyses médicales</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23986</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Laboratoire d'audioprothèse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23987</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Laboratoire de prothèse dentaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23988</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Laboratoire de recherche</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23989</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Laboratoire pharmaceutique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23990</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Laboratoire photographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23991</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Lactarium</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23992</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Librairie, papeterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23993</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Lycée d'enseignement général</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23994</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Lycée d'enseignement professionnel, technologique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23995</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Magasin d'antiquités</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23996</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Magasin d'instruments de musique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23997</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Magasin d'optique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23998</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Magasin populaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>23999</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Maison de jeu de commerce</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24000</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Maison des jeunes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24001</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Maison familiale rurale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24002</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Manade</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24003</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Manufacture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24004</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Marché d'Intérêt National -MIN-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24005</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Marché, foire exposition</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24006</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Mess (Armée)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24007</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ministère / Administration centrale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24008</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Mission locale (PAIO, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24010</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Office du tourisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24011</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Office National des Forêts</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24012</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Orchestre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24013</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organe de presse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24014</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisation humanitaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24015</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisation Non Gouvernementale -ONG-</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24016</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme culturel, du patrimoine</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24017</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme de contrôle et de certification</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24018</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme de crédit</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24019</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme de logement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24020</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme de protection sociale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24021</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme d'études et de sondage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24022</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme d'études techniques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24023</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme géographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24024</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme patronal/consulaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24025</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Organisme professionnel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24026</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Paquebot de croisière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24027</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Parc animalier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24028</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Parc d'attractions</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24029</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Parc de loisirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24030</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Parc de stationnement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24031</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Parc naturel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24032</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Pâtisserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24033</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Pépinière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24034</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Pharmacie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24035</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Pharmacie à Usage Interne d'établissement de soins</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24036</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Pizzeria</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24037</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Plantations de tabac, de cannes à sucre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24038</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Plateau de tournage (cinéma, télévision)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24039</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Plate-forme logistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24040</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Plate-forme téléphonique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24041</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Point chaud, terminal de cuisson</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24042</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Préfecture de département</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24043</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Préfecture de région</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24044</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Pressing</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24045</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Promoteur, constructeur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24046</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Recette des finances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24047</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Régie de quartier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24048</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Répartiteur pharmaceutique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24049</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Réseau de transport d'énergie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24050</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Résidence de personnes âgées</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24051</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Résidence de tourisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24052</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Résidence hôtelière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24053</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Restaurant à thème</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24054</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Restaurant de collectivité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24055</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Restaurant gastronomique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24056</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Restaurant traditionnel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24057</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Salle de jeux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24058</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Salle de projection privée / salle de vision</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24059</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Salle de spectacles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24060</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Salle polyvalente, salle des fêtes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24061</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Salon de coiffure</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24062</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Salon de thé</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24063</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Service de conservation des hypothèques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24064</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Service de la Protection Judiciaire de la Jeunesse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24065</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Service de l'Emploi Pénitentiaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24066</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Service de téléphonie sociale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24067</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Service d'incendie et de secours</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24068</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Service pénitentiaire d'insertion et de probation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24069</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Service spécialisé d'urgence médicale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24071</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Site de traitement de granulats</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24072</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Site de transit (gare, zone de fret, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24073</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Site de transit (port, aéroport, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24074</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Site de transit (port, aéroport, gare, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24075</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Site d'entreposage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24076</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Site portuaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24077</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société d'assistance aéroportuaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24078</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société d'autoroute</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24079</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de bourse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24080</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de collecte et de traitement des déchets</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24081</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de conseil</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24082</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de conseil et gestion de patrimoine</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24083</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de course express</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24084</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de gestion de tutelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24085</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de post-production cinématographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24086</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de production audiovisuelle, cinématographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24087</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de production de spectacles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24088</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de réassurance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24089</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de sécurité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24091</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de service d'aide à domicile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24092</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de service logistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24093</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de services</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24094</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de services d'assainissement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24095</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise de Services Numériques - ESN</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24097</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de taxis</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24098</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de transport international</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24099</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société de Travail Aérien</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24100</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société d'économie mixte</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24101</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société d'exploitation des remontées mécaniques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24102</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société d'investissement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24103</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société gestionnaire de pont à péage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24104</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Société immobilière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24105</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Sous-préfecture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24106</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Station de montagne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24107</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Station de radio</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24108</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Station-service</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24109</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Structure d'accueil petite enfance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24110</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Structure d'éveil et de jeux (bibliothèque, ludothèque, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24111</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Studio de création graphique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24112</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Studio de films d'animation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24113</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Studio de photographie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24114</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Studio d'enregistrement radiophonique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24115</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Supérette (120 à 400m²)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24116</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Supermarché (400 à 2500m²)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24117</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Support/régie publicitaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24119</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Traiteur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24120</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Trésorerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24121</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Tribunal administratif</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24122</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Tribunal correctionnel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24123</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Tribunal de commerce</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24124</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Tribunal de grande instance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24125</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Tribunal de police</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24126</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Tribunal d'instance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24127</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Université/école d'ingénieurs/grande école</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24128</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Village vacances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24129</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Voyagiste (tour opérateur)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24166</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Entreprise salicole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24167</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Salon de toilettage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24838</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Agent commercial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24839</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Education/Enseignement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24840</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Etablissement thermal</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24844</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Travail en indépendant</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>24845</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Vendeur à Domicile Indépendant (VDI)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>28981</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>VRP exclusif</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>28982</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>VRP multicartes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38055</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Travail de nuit</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38056</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Travail en extra</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38126</code_ogr>
+  <libelle_environnement>CONDITIONS</libelle_environnement>
+  <libelle>Logement assuré par l'employeur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38127</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Particulier employeur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38313</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Recyclage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38546</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Ressourcerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38677</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Drive en grande distribution</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38678</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Opérateur de réseaux câblés de communications électroniques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38679</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Studio de développement de jeux vidéo</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38748</code_ogr>
+  <libelle_environnement>SECTEURS</libelle_environnement>
+  <libelle>Gravure industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38799</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Silo</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+ <item_referentiel_env_travail>
+  <code_ogr>38863</code_ogr>
+  <libelle_environnement>STRUCTURES</libelle_environnement>
+  <libelle>Centre Véhicules hors d'usage - VHU</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_env_travail>
+</ogr>

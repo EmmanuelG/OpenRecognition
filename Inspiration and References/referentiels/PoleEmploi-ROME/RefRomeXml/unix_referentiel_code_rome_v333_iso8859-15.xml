@@ -1,0 +1,3195 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<ogr>
+ <item_referentiel_code_rome>
+  <code_ogr>6</code_ogr>
+  <code_rome>A1101</code_rome>
+  <libelle>Conduite d'engins agricoles et forestiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>7</code_ogr>
+  <code_rome>A1201</code_rome>
+  <libelle>Bûcheronnage et élagage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>8</code_ogr>
+  <code_rome>A1202</code_rome>
+  <libelle>Entretien des espaces naturels</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>9</code_ogr>
+  <code_rome>A1203</code_rome>
+  <libelle>Entretien des espaces verts</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>10</code_ogr>
+  <code_rome>A1204</code_rome>
+  <libelle>Protection du patrimoine naturel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>11</code_ogr>
+  <code_rome>A1205</code_rome>
+  <libelle>Sylviculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>12</code_ogr>
+  <code_rome>A1301</code_rome>
+  <libelle>Conseil et assistance technique en agriculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>13</code_ogr>
+  <code_rome>A1302</code_rome>
+  <libelle>Contrôle et diagnostic technique en agriculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>14</code_ogr>
+  <code_rome>A1303</code_rome>
+  <libelle>Ingénierie en agriculture et environnement naturel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>15</code_ogr>
+  <code_rome>A1401</code_rome>
+  <libelle>Aide agricole de production fruitière ou viticole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>16</code_ogr>
+  <code_rome>A1402</code_rome>
+  <libelle>Aide agricole de production légumière ou végétale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>17</code_ogr>
+  <code_rome>A1403</code_rome>
+  <libelle>Aide d'élevage agricole et aquacole</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>18</code_ogr>
+  <code_rome>A1404</code_rome>
+  <libelle>Aquaculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>19</code_ogr>
+  <code_rome>A1405</code_rome>
+  <libelle>Arboriculture et viticulture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>20</code_ogr>
+  <code_rome>A1406</code_rome>
+  <libelle>Encadrement équipage de la pêche</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>21</code_ogr>
+  <code_rome>A1407</code_rome>
+  <libelle>Élevage bovin ou équin</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>22</code_ogr>
+  <code_rome>A1408</code_rome>
+  <libelle>Élevage d'animaux sauvages ou de compagnie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>23</code_ogr>
+  <code_rome>A1409</code_rome>
+  <libelle>Élevage de lapins et volailles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>24</code_ogr>
+  <code_rome>A1410</code_rome>
+  <libelle>Élevage ovin ou caprin</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>25</code_ogr>
+  <code_rome>A1411</code_rome>
+  <libelle>Élevage porcin</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>26</code_ogr>
+  <code_rome>A1412</code_rome>
+  <libelle>Fabrication et affinage de fromages</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>27</code_ogr>
+  <code_rome>A1413</code_rome>
+  <libelle>Fermentation de boissons alcoolisées</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>28</code_ogr>
+  <code_rome>A1414</code_rome>
+  <libelle>Horticulture et maraîchage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>29</code_ogr>
+  <code_rome>A1415</code_rome>
+  <libelle>Equipage de la pêche</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>30</code_ogr>
+  <code_rome>A1416</code_rome>
+  <libelle>Polyculture, élevage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>31</code_ogr>
+  <code_rome>A1417</code_rome>
+  <libelle>Saliculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>32</code_ogr>
+  <code_rome>A1501</code_rome>
+  <libelle>Aide aux soins animaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>33</code_ogr>
+  <code_rome>A1502</code_rome>
+  <libelle>Podologie animale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>34</code_ogr>
+  <code_rome>A1503</code_rome>
+  <libelle>Toilettage des animaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>35</code_ogr>
+  <code_rome>A1504</code_rome>
+  <libelle>Santé animale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>36</code_ogr>
+  <code_rome>B1101</code_rome>
+  <libelle>Création en arts plastiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>37</code_ogr>
+  <code_rome>B1201</code_rome>
+  <libelle>Réalisation d'objets décoratifs et utilitaires en céramique et matériaux de synthèse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>38</code_ogr>
+  <code_rome>B1301</code_rome>
+  <libelle>Décoration d'espaces de vente et d'exposition</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>39</code_ogr>
+  <code_rome>B1302</code_rome>
+  <libelle>Décoration d'objets d'art et artisanaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>40</code_ogr>
+  <code_rome>B1303</code_rome>
+  <libelle>Gravure - ciselure</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>41</code_ogr>
+  <code_rome>B1401</code_rome>
+  <libelle>Réalisation d'objets en lianes, fibres et brins végétaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>42</code_ogr>
+  <code_rome>B1402</code_rome>
+  <libelle>Reliure et restauration de livres et archives</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>43</code_ogr>
+  <code_rome>B1501</code_rome>
+  <libelle>Fabrication et réparation d'instruments de musique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>44</code_ogr>
+  <code_rome>B1601</code_rome>
+  <libelle>Métallerie d'art</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>45</code_ogr>
+  <code_rome>B1602</code_rome>
+  <libelle>Réalisation d'objets artistiques et fonctionnels en verre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>46</code_ogr>
+  <code_rome>B1603</code_rome>
+  <libelle>Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>47</code_ogr>
+  <code_rome>B1604</code_rome>
+  <libelle>Réparation - montage en systèmes horlogers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>48</code_ogr>
+  <code_rome>B1701</code_rome>
+  <libelle>Conservation et reconstitution d'espèces animales</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>49</code_ogr>
+  <code_rome>B1801</code_rome>
+  <libelle>Réalisation d'articles de chapellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>50</code_ogr>
+  <code_rome>B1802</code_rome>
+  <libelle>Réalisation d'articles en cuir et matériaux souples (hors vêtement)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>51</code_ogr>
+  <code_rome>B1803</code_rome>
+  <libelle>Réalisation de vêtements sur mesure ou en petite série</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>52</code_ogr>
+  <code_rome>B1804</code_rome>
+  <libelle>Réalisation d'ouvrages d'art en fils</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>53</code_ogr>
+  <code_rome>B1805</code_rome>
+  <libelle>Stylisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>54</code_ogr>
+  <code_rome>B1806</code_rome>
+  <libelle>Tapisserie - décoration en ameublement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>55</code_ogr>
+  <code_rome>C1101</code_rome>
+  <libelle>Conception - développement produits d'assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>56</code_ogr>
+  <code_rome>C1102</code_rome>
+  <libelle>Conseil clientèle en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>57</code_ogr>
+  <code_rome>C1103</code_rome>
+  <libelle>Courtage en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>58</code_ogr>
+  <code_rome>C1104</code_rome>
+  <libelle>Direction d'exploitation en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>59</code_ogr>
+  <code_rome>C1105</code_rome>
+  <libelle>Études actuarielles en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>60</code_ogr>
+  <code_rome>C1106</code_rome>
+  <libelle>Expertise risques en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>61</code_ogr>
+  <code_rome>C1107</code_rome>
+  <libelle>Indemnisations en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>62</code_ogr>
+  <code_rome>C1108</code_rome>
+  <libelle>Management de groupe et de service en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>63</code_ogr>
+  <code_rome>C1109</code_rome>
+  <libelle>Rédaction et gestion en assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>64</code_ogr>
+  <code_rome>C1110</code_rome>
+  <libelle>Souscription d'assurances</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>65</code_ogr>
+  <code_rome>C1201</code_rome>
+  <libelle>Accueil et services bancaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>66</code_ogr>
+  <code_rome>C1202</code_rome>
+  <libelle>Analyse de crédits et risques bancaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>67</code_ogr>
+  <code_rome>C1203</code_rome>
+  <libelle>Relation clients banque/finance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>68</code_ogr>
+  <code_rome>C1204</code_rome>
+  <libelle>Conception et expertise produits bancaires et financiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>69</code_ogr>
+  <code_rome>C1205</code_rome>
+  <libelle>Conseil en gestion de patrimoine financier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>70</code_ogr>
+  <code_rome>C1206</code_rome>
+  <libelle>Gestion de clientèle bancaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>71</code_ogr>
+  <code_rome>C1207</code_rome>
+  <libelle>Management en exploitation bancaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>72</code_ogr>
+  <code_rome>C1301</code_rome>
+  <libelle>Front office marchés financiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>73</code_ogr>
+  <code_rome>C1302</code_rome>
+  <libelle>Gestion back et middle-office marchés financiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>74</code_ogr>
+  <code_rome>C1303</code_rome>
+  <libelle>Gestion de portefeuilles sur les marchés financiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>75</code_ogr>
+  <code_rome>C1401</code_rome>
+  <libelle>Gestion en banque et assurance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>76</code_ogr>
+  <code_rome>C1501</code_rome>
+  <libelle>Gérance immobilière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>77</code_ogr>
+  <code_rome>C1502</code_rome>
+  <libelle>Gestion locative immobilière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>78</code_ogr>
+  <code_rome>C1503</code_rome>
+  <libelle>Management de projet immobilier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>79</code_ogr>
+  <code_rome>C1504</code_rome>
+  <libelle>Transaction immobilière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>80</code_ogr>
+  <code_rome>D1101</code_rome>
+  <libelle>Boucherie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>81</code_ogr>
+  <code_rome>D1102</code_rome>
+  <libelle>Boulangerie - viennoiserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>82</code_ogr>
+  <code_rome>D1103</code_rome>
+  <libelle>Charcuterie - traiteur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>83</code_ogr>
+  <code_rome>D1104</code_rome>
+  <libelle>Pâtisserie, confiserie, chocolaterie et glacerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>84</code_ogr>
+  <code_rome>D1105</code_rome>
+  <libelle>Poissonnerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>85</code_ogr>
+  <code_rome>D1106</code_rome>
+  <libelle>Vente en alimentation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>86</code_ogr>
+  <code_rome>D1107</code_rome>
+  <libelle>Vente en gros de produits frais</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>87</code_ogr>
+  <code_rome>D1201</code_rome>
+  <libelle>Achat vente d'objets d'art, anciens ou d'occasion</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>88</code_ogr>
+  <code_rome>D1202</code_rome>
+  <libelle>Coiffure</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>89</code_ogr>
+  <code_rome>D1203</code_rome>
+  <libelle>Hydrothérapie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>90</code_ogr>
+  <code_rome>D1204</code_rome>
+  <libelle>Location de véhicules ou de matériel de loisirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>91</code_ogr>
+  <code_rome>D1205</code_rome>
+  <libelle>Nettoyage d'articles textiles ou cuirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>92</code_ogr>
+  <code_rome>D1206</code_rome>
+  <libelle>Réparation d'articles en cuir et matériaux souples</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>93</code_ogr>
+  <code_rome>D1207</code_rome>
+  <libelle>Retouches en habillement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>94</code_ogr>
+  <code_rome>D1208</code_rome>
+  <libelle>Soins esthétiques et corporels</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>95</code_ogr>
+  <code_rome>D1209</code_rome>
+  <libelle>Vente de végétaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>96</code_ogr>
+  <code_rome>D1210</code_rome>
+  <libelle>Vente en animalerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>97</code_ogr>
+  <code_rome>D1211</code_rome>
+  <libelle>Vente en articles de sport et loisirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>98</code_ogr>
+  <code_rome>D1212</code_rome>
+  <libelle>Vente en décoration et équipement du foyer</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>99</code_ogr>
+  <code_rome>D1213</code_rome>
+  <libelle>Vente en gros de matériel et équipement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>100</code_ogr>
+  <code_rome>D1214</code_rome>
+  <libelle>Vente en habillement et accessoires de la personne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>101</code_ogr>
+  <code_rome>D1301</code_rome>
+  <libelle>Management de magasin de détail</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>102</code_ogr>
+  <code_rome>D1401</code_rome>
+  <libelle>Assistanat commercial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>103</code_ogr>
+  <code_rome>D1402</code_rome>
+  <libelle>Relation commerciale grands comptes et entreprises</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>104</code_ogr>
+  <code_rome>D1403</code_rome>
+  <libelle>Relation commerciale auprès de particuliers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>105</code_ogr>
+  <code_rome>D1404</code_rome>
+  <libelle>Relation commerciale en vente de véhicules</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>106</code_ogr>
+  <code_rome>D1405</code_rome>
+  <libelle>Conseil en information médicale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>107</code_ogr>
+  <code_rome>D1406</code_rome>
+  <libelle>Management en force de vente</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>108</code_ogr>
+  <code_rome>D1407</code_rome>
+  <libelle>Relation technico-commerciale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>109</code_ogr>
+  <code_rome>D1408</code_rome>
+  <libelle>Téléconseil et télévente</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>110</code_ogr>
+  <code_rome>D1501</code_rome>
+  <libelle>Animation de vente</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>111</code_ogr>
+  <code_rome>D1502</code_rome>
+  <libelle>Management/gestion de rayon produits alimentaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>112</code_ogr>
+  <code_rome>D1503</code_rome>
+  <libelle>Management/gestion de rayon produits non alimentaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>113</code_ogr>
+  <code_rome>D1504</code_rome>
+  <libelle>Direction de magasin de grande distribution</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>114</code_ogr>
+  <code_rome>D1505</code_rome>
+  <libelle>Personnel de caisse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>115</code_ogr>
+  <code_rome>D1506</code_rome>
+  <libelle>Marchandisage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>116</code_ogr>
+  <code_rome>D1507</code_rome>
+  <libelle>Mise en rayon libre-service</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>117</code_ogr>
+  <code_rome>D1508</code_rome>
+  <libelle>Encadrement du personnel de caisses</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>118</code_ogr>
+  <code_rome>D1509</code_rome>
+  <libelle>Management de département en grande distribution</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>119</code_ogr>
+  <code_rome>E1101</code_rome>
+  <libelle>Animation de site multimédia</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>120</code_ogr>
+  <code_rome>E1102</code_rome>
+  <libelle>Ecriture d'ouvrages, de livres</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>121</code_ogr>
+  <code_rome>E1103</code_rome>
+  <libelle>Communication</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>122</code_ogr>
+  <code_rome>E1104</code_rome>
+  <libelle>Conception de contenus multimédias</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>123</code_ogr>
+  <code_rome>E1105</code_rome>
+  <libelle>Coordination d'édition</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>124</code_ogr>
+  <code_rome>E1106</code_rome>
+  <libelle>Journalisme et information média</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>125</code_ogr>
+  <code_rome>E1107</code_rome>
+  <libelle>Organisation d'évènementiel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>126</code_ogr>
+  <code_rome>E1108</code_rome>
+  <libelle>Traduction, interprétariat</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>127</code_ogr>
+  <code_rome>E1201</code_rome>
+  <libelle>Photographie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>128</code_ogr>
+  <code_rome>E1202</code_rome>
+  <libelle>Production en laboratoire cinématographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>129</code_ogr>
+  <code_rome>E1203</code_rome>
+  <libelle>Production en laboratoire photographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>130</code_ogr>
+  <code_rome>E1204</code_rome>
+  <libelle>Projection cinéma</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>131</code_ogr>
+  <code_rome>E1205</code_rome>
+  <libelle>Réalisation de contenus multimédias</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>132</code_ogr>
+  <code_rome>E1301</code_rome>
+  <libelle>Conduite de machines d'impression</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>133</code_ogr>
+  <code_rome>E1302</code_rome>
+  <libelle>Conduite de machines de façonnage routage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>134</code_ogr>
+  <code_rome>E1303</code_rome>
+  <libelle>Encadrement des industries graphiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>135</code_ogr>
+  <code_rome>E1304</code_rome>
+  <libelle>Façonnage et routage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>136</code_ogr>
+  <code_rome>E1305</code_rome>
+  <libelle>Préparation et correction en édition et presse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>137</code_ogr>
+  <code_rome>E1306</code_rome>
+  <libelle>Prépresse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>138</code_ogr>
+  <code_rome>E1307</code_rome>
+  <libelle>Reprographie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>139</code_ogr>
+  <code_rome>E1308</code_rome>
+  <libelle>Intervention technique en industrie graphique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>140</code_ogr>
+  <code_rome>E1401</code_rome>
+  <libelle>Développement et promotion publicitaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>141</code_ogr>
+  <code_rome>E1402</code_rome>
+  <libelle>Élaboration de plan média</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>142</code_ogr>
+  <code_rome>F1101</code_rome>
+  <libelle>Architecture du BTP</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>143</code_ogr>
+  <code_rome>F1102</code_rome>
+  <libelle>Conception - aménagement d'espaces intérieurs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>144</code_ogr>
+  <code_rome>F1103</code_rome>
+  <libelle>Contrôle et diagnostic technique du bâtiment</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>145</code_ogr>
+  <code_rome>F1104</code_rome>
+  <libelle>Dessin BTP</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>146</code_ogr>
+  <code_rome>F1105</code_rome>
+  <libelle>Études géologiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>147</code_ogr>
+  <code_rome>F1106</code_rome>
+  <libelle>Ingénierie et études du BTP</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>148</code_ogr>
+  <code_rome>F1107</code_rome>
+  <libelle>Mesures topographiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>149</code_ogr>
+  <code_rome>F1108</code_rome>
+  <libelle>Métré de la construction</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>150</code_ogr>
+  <code_rome>F1201</code_rome>
+  <libelle>Conduite de travaux du BTP</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>151</code_ogr>
+  <code_rome>F1202</code_rome>
+  <libelle>Direction de chantier du BTP</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>152</code_ogr>
+  <code_rome>F1203</code_rome>
+  <libelle>Direction et ingénierie d'exploitation de gisements et de carrières</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>153</code_ogr>
+  <code_rome>F1204</code_rome>
+  <libelle>Sécurité et protection santé du BTP</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>154</code_ogr>
+  <code_rome>F1301</code_rome>
+  <libelle>Conduite de grue</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>155</code_ogr>
+  <code_rome>F1302</code_rome>
+  <libelle>Conduite d'engins de terrassement et de carrière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>156</code_ogr>
+  <code_rome>F1401</code_rome>
+  <libelle>Extraction liquide et gazeuse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>157</code_ogr>
+  <code_rome>F1402</code_rome>
+  <libelle>Extraction solide</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>158</code_ogr>
+  <code_rome>F1501</code_rome>
+  <libelle>Montage de structures et de charpentes bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>159</code_ogr>
+  <code_rome>F1502</code_rome>
+  <libelle>Montage de structures métalliques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>160</code_ogr>
+  <code_rome>F1503</code_rome>
+  <libelle>Réalisation - installation d'ossatures bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>161</code_ogr>
+  <code_rome>F1601</code_rome>
+  <libelle>Application et décoration en plâtre, stuc et staff</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>162</code_ogr>
+  <code_rome>F1602</code_rome>
+  <libelle>Électricité bâtiment</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>163</code_ogr>
+  <code_rome>F1603</code_rome>
+  <libelle>Installation d'équipements sanitaires et thermiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>164</code_ogr>
+  <code_rome>F1604</code_rome>
+  <libelle>Montage d'agencements</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>165</code_ogr>
+  <code_rome>F1605</code_rome>
+  <libelle>Montage de réseaux électriques et télécoms</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>166</code_ogr>
+  <code_rome>F1606</code_rome>
+  <libelle>Peinture en bâtiment</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>167</code_ogr>
+  <code_rome>F1607</code_rome>
+  <libelle>Pose de fermetures menuisées</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>168</code_ogr>
+  <code_rome>F1608</code_rome>
+  <libelle>Pose de revêtements rigides</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>169</code_ogr>
+  <code_rome>F1609</code_rome>
+  <libelle>Pose de revêtements souples</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>170</code_ogr>
+  <code_rome>F1610</code_rome>
+  <libelle>Pose et restauration de couvertures</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>171</code_ogr>
+  <code_rome>F1611</code_rome>
+  <libelle>Réalisation et restauration de façades</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>172</code_ogr>
+  <code_rome>F1612</code_rome>
+  <libelle>Taille et décoration de pierres</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>173</code_ogr>
+  <code_rome>F1613</code_rome>
+  <libelle>Travaux d'étanchéité et d'isolation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>174</code_ogr>
+  <code_rome>F1701</code_rome>
+  <libelle>Construction en béton</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>175</code_ogr>
+  <code_rome>F1702</code_rome>
+  <libelle>Construction de routes et voies</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>176</code_ogr>
+  <code_rome>F1703</code_rome>
+  <libelle>Maçonnerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>177</code_ogr>
+  <code_rome>F1704</code_rome>
+  <libelle>Préparation du gros oeuvre et des travaux publics</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>178</code_ogr>
+  <code_rome>F1705</code_rome>
+  <libelle>Pose de canalisations</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>179</code_ogr>
+  <code_rome>F1706</code_rome>
+  <libelle>Préfabrication en béton industriel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>180</code_ogr>
+  <code_rome>G1101</code_rome>
+  <libelle>Accueil touristique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>181</code_ogr>
+  <code_rome>G1102</code_rome>
+  <libelle>Promotion du tourisme local</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>182</code_ogr>
+  <code_rome>G1201</code_rome>
+  <libelle>Accompagnement de voyages, d'activités culturelles ou sportives</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>183</code_ogr>
+  <code_rome>G1202</code_rome>
+  <libelle>Animation d'activités culturelles ou ludiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>184</code_ogr>
+  <code_rome>G1203</code_rome>
+  <libelle>Animation de loisirs auprès d'enfants ou d'adolescents</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>185</code_ogr>
+  <code_rome>G1204</code_rome>
+  <libelle>Éducation en activités sportives</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>186</code_ogr>
+  <code_rome>G1205</code_rome>
+  <libelle>Personnel d'attractions ou de structures de loisirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>187</code_ogr>
+  <code_rome>G1206</code_rome>
+  <libelle>Personnel technique des jeux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>188</code_ogr>
+  <code_rome>G1301</code_rome>
+  <libelle>Conception de produits touristiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>189</code_ogr>
+  <code_rome>G1302</code_rome>
+  <libelle>Optimisation de produits touristiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>190</code_ogr>
+  <code_rome>G1303</code_rome>
+  <libelle>Vente de voyages</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>191</code_ogr>
+  <code_rome>G1401</code_rome>
+  <libelle>Assistance de direction d'hôtel-restaurant</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>192</code_ogr>
+  <code_rome>G1402</code_rome>
+  <libelle>Management d'hôtel-restaurant</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>193</code_ogr>
+  <code_rome>G1403</code_rome>
+  <libelle>Gestion de structure de loisirs ou d'hébergement touristique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>194</code_ogr>
+  <code_rome>G1404</code_rome>
+  <libelle>Management d'établissement de restauration collective</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>195</code_ogr>
+  <code_rome>G1501</code_rome>
+  <libelle>Personnel d'étage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>196</code_ogr>
+  <code_rome>G1502</code_rome>
+  <libelle>Personnel polyvalent d'hôtellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>197</code_ogr>
+  <code_rome>G1503</code_rome>
+  <libelle>Management du personnel d'étage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>198</code_ogr>
+  <code_rome>G1601</code_rome>
+  <libelle>Management du personnel de cuisine</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>199</code_ogr>
+  <code_rome>G1602</code_rome>
+  <libelle>Personnel de cuisine</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>200</code_ogr>
+  <code_rome>G1603</code_rome>
+  <libelle>Personnel polyvalent en restauration</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>201</code_ogr>
+  <code_rome>G1604</code_rome>
+  <libelle>Fabrication de crêpes ou pizzas</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>202</code_ogr>
+  <code_rome>G1605</code_rome>
+  <libelle>Plonge en restauration</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>203</code_ogr>
+  <code_rome>G1701</code_rome>
+  <libelle>Conciergerie en hôtellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>204</code_ogr>
+  <code_rome>G1702</code_rome>
+  <libelle>Personnel du hall</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>205</code_ogr>
+  <code_rome>G1703</code_rome>
+  <libelle>Réception en hôtellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>206</code_ogr>
+  <code_rome>G1801</code_rome>
+  <libelle>Café, bar brasserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>207</code_ogr>
+  <code_rome>G1802</code_rome>
+  <libelle>Management du service en restauration</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>208</code_ogr>
+  <code_rome>G1803</code_rome>
+  <libelle>Service en restauration</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>209</code_ogr>
+  <code_rome>G1804</code_rome>
+  <libelle>Sommellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>210</code_ogr>
+  <code_rome>H1101</code_rome>
+  <libelle>Assistance et support technique client</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>211</code_ogr>
+  <code_rome>H1102</code_rome>
+  <libelle>Management et ingénierie d'affaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>212</code_ogr>
+  <code_rome>H1201</code_rome>
+  <libelle>Expertise technique couleur en industrie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>213</code_ogr>
+  <code_rome>H1202</code_rome>
+  <libelle>Conception et dessin de produits électriques et électroniques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>214</code_ogr>
+  <code_rome>H1203</code_rome>
+  <libelle>Conception et dessin produits mécaniques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>215</code_ogr>
+  <code_rome>H1204</code_rome>
+  <libelle>Design industriel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>216</code_ogr>
+  <code_rome>H1205</code_rome>
+  <libelle>Études - modèles en industrie des matériaux souples</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>217</code_ogr>
+  <code_rome>H1206</code_rome>
+  <libelle>Management et ingénierie études, recherche et développement industriel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>218</code_ogr>
+  <code_rome>H1207</code_rome>
+  <libelle>Rédaction technique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>219</code_ogr>
+  <code_rome>H1208</code_rome>
+  <libelle>Intervention technique en études et conception en automatisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>220</code_ogr>
+  <code_rome>H1209</code_rome>
+  <libelle>Intervention technique en études et développement électronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>221</code_ogr>
+  <code_rome>H1210</code_rome>
+  <libelle>Intervention technique en études, recherche et développement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>222</code_ogr>
+  <code_rome>H1301</code_rome>
+  <libelle>Inspection de conformité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>223</code_ogr>
+  <code_rome>H1302</code_rome>
+  <libelle>Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>224</code_ogr>
+  <code_rome>H1303</code_rome>
+  <libelle>Intervention technique en Hygiène Sécurité Environnement -HSE- industriel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>225</code_ogr>
+  <code_rome>H1401</code_rome>
+  <libelle>Management et ingénierie gestion industrielle et logistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>226</code_ogr>
+  <code_rome>H1402</code_rome>
+  <libelle>Management et ingénierie méthodes et industrialisation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>227</code_ogr>
+  <code_rome>H1403</code_rome>
+  <libelle>Intervention technique en gestion industrielle et logistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>228</code_ogr>
+  <code_rome>H1404</code_rome>
+  <libelle>Intervention technique en méthodes et industrialisation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>229</code_ogr>
+  <code_rome>H1501</code_rome>
+  <libelle>Direction de laboratoire d'analyse industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>230</code_ogr>
+  <code_rome>H1502</code_rome>
+  <libelle>Management et ingénierie qualité industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>231</code_ogr>
+  <code_rome>H1503</code_rome>
+  <libelle>Intervention technique en laboratoire d'analyse industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>232</code_ogr>
+  <code_rome>H1504</code_rome>
+  <libelle>Intervention technique en contrôle essai qualité en électricité et électronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>233</code_ogr>
+  <code_rome>H1505</code_rome>
+  <libelle>Intervention technique en formulation et analyse sensorielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>234</code_ogr>
+  <code_rome>H1506</code_rome>
+  <libelle>Intervention technique qualité en mécanique et travail des métaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>235</code_ogr>
+  <code_rome>H2101</code_rome>
+  <libelle>Abattage et découpe des viandes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>236</code_ogr>
+  <code_rome>H2102</code_rome>
+  <libelle>Conduite d'équipement de production alimentaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>237</code_ogr>
+  <code_rome>H2201</code_rome>
+  <libelle>Assemblage d'ouvrages en bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>238</code_ogr>
+  <code_rome>H2202</code_rome>
+  <libelle>Conduite d'équipement de fabrication de l'ameublement et du bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>239</code_ogr>
+  <code_rome>H2203</code_rome>
+  <libelle>Conduite d'installation de production de panneaux bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>240</code_ogr>
+  <code_rome>H2204</code_rome>
+  <libelle>Encadrement des industries de l'ameublement et du bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>241</code_ogr>
+  <code_rome>H2205</code_rome>
+  <libelle>Première transformation de bois d'oeuvre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>242</code_ogr>
+  <code_rome>H2206</code_rome>
+  <libelle>Réalisation de menuiserie bois et tonnellerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>243</code_ogr>
+  <code_rome>H2207</code_rome>
+  <libelle>Réalisation de meubles en bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>244</code_ogr>
+  <code_rome>H2208</code_rome>
+  <libelle>Réalisation d'ouvrages décoratifs en bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>245</code_ogr>
+  <code_rome>H2209</code_rome>
+  <libelle>Intervention technique en ameublement et bois</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>246</code_ogr>
+  <code_rome>H2301</code_rome>
+  <libelle>Conduite d'équipement de production chimique ou pharmaceutique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>247</code_ogr>
+  <code_rome>H2401</code_rome>
+  <libelle>Assemblage - montage d'articles en cuirs, peaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>248</code_ogr>
+  <code_rome>H2402</code_rome>
+  <libelle>Assemblage - montage de vêtements et produits textiles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>249</code_ogr>
+  <code_rome>H2403</code_rome>
+  <libelle>Conduite de machine de fabrication de produits textiles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>250</code_ogr>
+  <code_rome>H2404</code_rome>
+  <libelle>Conduite de machine de production et transformation des fils</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>251</code_ogr>
+  <code_rome>H2405</code_rome>
+  <libelle>Conduite de machine de textiles nontissés</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>252</code_ogr>
+  <code_rome>H2406</code_rome>
+  <libelle>Conduite de machine de traitement textile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>253</code_ogr>
+  <code_rome>H2407</code_rome>
+  <libelle>Conduite de machine de transformation et de finition des cuirs et peaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>254</code_ogr>
+  <code_rome>H2408</code_rome>
+  <libelle>Conduite de machine d'impression textile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>255</code_ogr>
+  <code_rome>H2409</code_rome>
+  <libelle>Coupe cuir, textile et matériaux souples</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>256</code_ogr>
+  <code_rome>H2410</code_rome>
+  <libelle>Mise en forme, repassage et finitions en industrie textile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>257</code_ogr>
+  <code_rome>H2411</code_rome>
+  <libelle>Montage de prototype cuir et matériaux souples</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>258</code_ogr>
+  <code_rome>H2412</code_rome>
+  <libelle>Patronnage - gradation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>259</code_ogr>
+  <code_rome>H2413</code_rome>
+  <libelle>Préparation de fils, montage de métiers textiles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>260</code_ogr>
+  <code_rome>H2414</code_rome>
+  <libelle>Préparation et finition d'articles en cuir et matériaux souples</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>261</code_ogr>
+  <code_rome>H2415</code_rome>
+  <libelle>Contrôle en industrie du cuir et du textile</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>262</code_ogr>
+  <code_rome>H2501</code_rome>
+  <libelle>Encadrement de production de matériel électrique et électronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>263</code_ogr>
+  <code_rome>H2502</code_rome>
+  <libelle>Management et ingénierie de production</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>264</code_ogr>
+  <code_rome>H2503</code_rome>
+  <libelle>Pilotage d'unité élémentaire de production mécanique ou de travail des métaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>265</code_ogr>
+  <code_rome>H2504</code_rome>
+  <libelle>Encadrement d'équipe en industrie de transformation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>266</code_ogr>
+  <code_rome>H2505</code_rome>
+  <libelle>Encadrement d'équipe ou d'atelier en matériaux souples</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>267</code_ogr>
+  <code_rome>H2601</code_rome>
+  <libelle>Bobinage électrique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>268</code_ogr>
+  <code_rome>H2602</code_rome>
+  <libelle>Câblage électrique et électromécanique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>269</code_ogr>
+  <code_rome>H2603</code_rome>
+  <libelle>Conduite d'installation automatisée de production électrique, électronique et microélectronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>270</code_ogr>
+  <code_rome>H2604</code_rome>
+  <libelle>Montage de produits électriques et électroniques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>271</code_ogr>
+  <code_rome>H2605</code_rome>
+  <libelle>Montage et câblage électronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>272</code_ogr>
+  <code_rome>H2701</code_rome>
+  <libelle>Pilotage d'installation énergétique et pétrochimique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>273</code_ogr>
+  <code_rome>H2801</code_rome>
+  <libelle>Conduite d'équipement de transformation du verre</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>274</code_ogr>
+  <code_rome>H2802</code_rome>
+  <libelle>Conduite d'installation de production de matériaux de construction</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>275</code_ogr>
+  <code_rome>H2803</code_rome>
+  <libelle>Façonnage et émaillage en industrie céramique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>276</code_ogr>
+  <code_rome>H2804</code_rome>
+  <libelle>Pilotage de centrale à béton prêt à l'emploi, ciment, enrobés et granulats</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>277</code_ogr>
+  <code_rome>H2805</code_rome>
+  <libelle>Pilotage d'installation de production verrière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>278</code_ogr>
+  <code_rome>H2901</code_rome>
+  <libelle>Ajustement et montage de fabrication</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>279</code_ogr>
+  <code_rome>H2902</code_rome>
+  <libelle>Chaudronnerie - tôlerie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>280</code_ogr>
+  <code_rome>H2903</code_rome>
+  <libelle>Conduite d'équipement d'usinage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>281</code_ogr>
+  <code_rome>H2904</code_rome>
+  <libelle>Conduite d'équipement de déformation des métaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>282</code_ogr>
+  <code_rome>H2905</code_rome>
+  <libelle>Conduite d'équipement de formage et découpage des matériaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>283</code_ogr>
+  <code_rome>H2906</code_rome>
+  <libelle>Conduite d'installation automatisée ou robotisée de fabrication mécanique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>284</code_ogr>
+  <code_rome>H2907</code_rome>
+  <libelle>Conduite d'installation de production des métaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>285</code_ogr>
+  <code_rome>H2908</code_rome>
+  <libelle>Modelage de matériaux non métalliques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>286</code_ogr>
+  <code_rome>H2909</code_rome>
+  <libelle>Montage-assemblage mécanique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>287</code_ogr>
+  <code_rome>H2910</code_rome>
+  <libelle>Moulage sable</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>288</code_ogr>
+  <code_rome>H2911</code_rome>
+  <libelle>Réalisation de structures métalliques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>289</code_ogr>
+  <code_rome>H2912</code_rome>
+  <libelle>Réglage d'équipement de production industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>290</code_ogr>
+  <code_rome>H2913</code_rome>
+  <libelle>Soudage manuel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>291</code_ogr>
+  <code_rome>H2914</code_rome>
+  <libelle>Réalisation et montage en tuyauterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>292</code_ogr>
+  <code_rome>H3101</code_rome>
+  <libelle>Conduite d'équipement de fabrication de papier ou de carton</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>293</code_ogr>
+  <code_rome>H3102</code_rome>
+  <libelle>Conduite d'installation de pâte à papier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>294</code_ogr>
+  <code_rome>H3201</code_rome>
+  <libelle>Conduite d'équipement de formage des plastiques et caoutchoucs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>295</code_ogr>
+  <code_rome>H3202</code_rome>
+  <libelle>Réglage d'équipement de formage des plastiques et caoutchoucs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>296</code_ogr>
+  <code_rome>H3203</code_rome>
+  <libelle>Fabrication de pièces en matériaux composites</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>297</code_ogr>
+  <code_rome>H3301</code_rome>
+  <libelle>Conduite d'équipement de conditionnement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>298</code_ogr>
+  <code_rome>H3302</code_rome>
+  <libelle>Opérations manuelles d'assemblage, tri ou emballage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>299</code_ogr>
+  <code_rome>H3303</code_rome>
+  <libelle>Préparation de matières et produits industriels (broyage, mélange, ...)</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>300</code_ogr>
+  <code_rome>H3401</code_rome>
+  <libelle>Conduite de traitement d'abrasion de surface</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>301</code_ogr>
+  <code_rome>H3402</code_rome>
+  <libelle>Conduite de traitement par dépôt de surface</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>302</code_ogr>
+  <code_rome>H3403</code_rome>
+  <libelle>Conduite de traitement thermique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>303</code_ogr>
+  <code_rome>H3404</code_rome>
+  <libelle>Peinture industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>304</code_ogr>
+  <code_rome>I1101</code_rome>
+  <libelle>Direction et ingénierie en entretien infrastructure et bâti</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>305</code_ogr>
+  <code_rome>I1102</code_rome>
+  <libelle>Management et ingénierie de maintenance industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>306</code_ogr>
+  <code_rome>I1103</code_rome>
+  <libelle>Supervision d'entretien et gestion de véhicules</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>307</code_ogr>
+  <code_rome>I1201</code_rome>
+  <libelle>Entretien d'affichage et mobilier urbain</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>308</code_ogr>
+  <code_rome>I1202</code_rome>
+  <libelle>Entretien et surveillance du tracé routier</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>309</code_ogr>
+  <code_rome>I1203</code_rome>
+  <libelle>Maintenance des bâtiments et des locaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>310</code_ogr>
+  <code_rome>I1301</code_rome>
+  <libelle>Installation et maintenance d'ascenseurs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>311</code_ogr>
+  <code_rome>I1302</code_rome>
+  <libelle>Installation et maintenance d'automatismes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>312</code_ogr>
+  <code_rome>I1303</code_rome>
+  <libelle>Installation et maintenance de distributeurs automatiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>313</code_ogr>
+  <code_rome>I1304</code_rome>
+  <libelle>Installation et maintenance d'équipements industriels et d'exploitation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>314</code_ogr>
+  <code_rome>I1305</code_rome>
+  <libelle>Installation et maintenance électronique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>315</code_ogr>
+  <code_rome>I1306</code_rome>
+  <libelle>Installation et maintenance en froid, conditionnement d'air</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>316</code_ogr>
+  <code_rome>I1307</code_rome>
+  <libelle>Installation et maintenance télécoms et courants faibles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>317</code_ogr>
+  <code_rome>I1308</code_rome>
+  <libelle>Maintenance d'installation de chauffage</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>318</code_ogr>
+  <code_rome>I1309</code_rome>
+  <libelle>Maintenance électrique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>319</code_ogr>
+  <code_rome>I1310</code_rome>
+  <libelle>Maintenance mécanique industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>320</code_ogr>
+  <code_rome>I1401</code_rome>
+  <libelle>Maintenance informatique et bureautique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>321</code_ogr>
+  <code_rome>I1402</code_rome>
+  <libelle>Réparation de biens électrodomestiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>322</code_ogr>
+  <code_rome>I1501</code_rome>
+  <libelle>Intervention en grande hauteur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>323</code_ogr>
+  <code_rome>I1502</code_rome>
+  <libelle>Intervention en milieu subaquatique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>324</code_ogr>
+  <code_rome>I1503</code_rome>
+  <libelle>Intervention en milieux et produits nocifs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>325</code_ogr>
+  <code_rome>I1601</code_rome>
+  <libelle>Installation et maintenance en nautisme</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>326</code_ogr>
+  <code_rome>I1602</code_rome>
+  <libelle>Maintenance d'aéronefs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>327</code_ogr>
+  <code_rome>I1603</code_rome>
+  <libelle>Maintenance d'engins de chantier, levage, manutention et de machines agricoles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>328</code_ogr>
+  <code_rome>I1604</code_rome>
+  <libelle>Mécanique automobile et entretien de véhicules</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>329</code_ogr>
+  <code_rome>I1605</code_rome>
+  <libelle>Mécanique de marine</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>330</code_ogr>
+  <code_rome>I1606</code_rome>
+  <libelle>Réparation de carrosserie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>331</code_ogr>
+  <code_rome>I1607</code_rome>
+  <libelle>Réparation de cycles, motocycles et motoculteurs de loisirs</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>332</code_ogr>
+  <code_rome>J1101</code_rome>
+  <libelle>Médecine de prévention</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>333</code_ogr>
+  <code_rome>J1102</code_rome>
+  <libelle>Médecine généraliste et spécialisée</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>334</code_ogr>
+  <code_rome>J1103</code_rome>
+  <libelle>Médecine dentaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>335</code_ogr>
+  <code_rome>J1104</code_rome>
+  <libelle>Suivi de la grossesse et de l'accouchement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>336</code_ogr>
+  <code_rome>J1201</code_rome>
+  <libelle>Biologie médicale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>337</code_ogr>
+  <code_rome>J1202</code_rome>
+  <libelle>Pharmacie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>338</code_ogr>
+  <code_rome>J1301</code_rome>
+  <libelle>Personnel polyvalent des services hospitaliers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>339</code_ogr>
+  <code_rome>J1302</code_rome>
+  <libelle>Analyses médicales</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>340</code_ogr>
+  <code_rome>J1303</code_rome>
+  <libelle>Assistance médico-technique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>341</code_ogr>
+  <code_rome>J1304</code_rome>
+  <libelle>Aide en puériculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>342</code_ogr>
+  <code_rome>J1305</code_rome>
+  <libelle>Conduite de véhicules sanitaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>343</code_ogr>
+  <code_rome>J1306</code_rome>
+  <libelle>Imagerie médicale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>344</code_ogr>
+  <code_rome>J1307</code_rome>
+  <libelle>Préparation en pharmacie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>345</code_ogr>
+  <code_rome>J1401</code_rome>
+  <libelle>Audioprothèses</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>346</code_ogr>
+  <code_rome>J1402</code_rome>
+  <libelle>Diététique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>347</code_ogr>
+  <code_rome>J1403</code_rome>
+  <libelle>Ergothérapie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>348</code_ogr>
+  <code_rome>J1404</code_rome>
+  <libelle>Kinésithérapie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>349</code_ogr>
+  <code_rome>J1405</code_rome>
+  <libelle>Optique - lunetterie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>350</code_ogr>
+  <code_rome>J1406</code_rome>
+  <libelle>Orthophonie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>351</code_ogr>
+  <code_rome>J1407</code_rome>
+  <libelle>Orthoptique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>352</code_ogr>
+  <code_rome>J1408</code_rome>
+  <libelle>Ostéopathie et chiropraxie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>353</code_ogr>
+  <code_rome>J1409</code_rome>
+  <libelle>Pédicurie et podologie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>354</code_ogr>
+  <code_rome>J1410</code_rome>
+  <libelle>Prothèses dentaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>355</code_ogr>
+  <code_rome>J1411</code_rome>
+  <libelle>Prothèses et orthèses</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>356</code_ogr>
+  <code_rome>J1412</code_rome>
+  <libelle>Rééducation en psychomotricité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>357</code_ogr>
+  <code_rome>J1501</code_rome>
+  <libelle>Soins d'hygiène, de confort du patient</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>358</code_ogr>
+  <code_rome>J1502</code_rome>
+  <libelle>Coordination de services médicaux ou paramédicaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>359</code_ogr>
+  <code_rome>J1503</code_rome>
+  <libelle>Soins infirmiers spécialisés en anesthésie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>360</code_ogr>
+  <code_rome>J1504</code_rome>
+  <libelle>Soins infirmiers spécialisés en bloc opératoire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>361</code_ogr>
+  <code_rome>J1505</code_rome>
+  <libelle>Soins infirmiers spécialisés en prévention</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>362</code_ogr>
+  <code_rome>J1506</code_rome>
+  <libelle>Soins infirmiers généralistes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>363</code_ogr>
+  <code_rome>J1507</code_rome>
+  <libelle>Soins infirmiers spécialisés en puériculture</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>364</code_ogr>
+  <code_rome>K1101</code_rome>
+  <libelle>Accompagnement et médiation familiale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>365</code_ogr>
+  <code_rome>K1102</code_rome>
+  <libelle>Aide aux bénéficiaires d'une mesure de protection juridique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>366</code_ogr>
+  <code_rome>K1103</code_rome>
+  <libelle>Développement personnel et bien-être de la personne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>367</code_ogr>
+  <code_rome>K1104</code_rome>
+  <libelle>Psychologie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>368</code_ogr>
+  <code_rome>K1201</code_rome>
+  <libelle>Action sociale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>369</code_ogr>
+  <code_rome>K1202</code_rome>
+  <libelle>Éducation de jeunes enfants</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>370</code_ogr>
+  <code_rome>K1203</code_rome>
+  <libelle>Encadrement technique en insertion professionnelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>371</code_ogr>
+  <code_rome>K1204</code_rome>
+  <libelle>Médiation sociale et facilitation de la vie en société</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>372</code_ogr>
+  <code_rome>K1205</code_rome>
+  <libelle>Information sociale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>373</code_ogr>
+  <code_rome>K1206</code_rome>
+  <libelle>Intervention socioculturelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>374</code_ogr>
+  <code_rome>K1207</code_rome>
+  <libelle>Intervention socioéducative</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>375</code_ogr>
+  <code_rome>K1301</code_rome>
+  <libelle>Accompagnement médicosocial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>376</code_ogr>
+  <code_rome>K1302</code_rome>
+  <libelle>Assistance auprès d'adultes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>377</code_ogr>
+  <code_rome>K1303</code_rome>
+  <libelle>Assistance auprès d'enfants</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>378</code_ogr>
+  <code_rome>K1304</code_rome>
+  <libelle>Services domestiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>379</code_ogr>
+  <code_rome>K1401</code_rome>
+  <libelle>Conception et pilotage de la politique des pouvoirs publics</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>380</code_ogr>
+  <code_rome>K1402</code_rome>
+  <libelle>Conseil en Santé Publique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>381</code_ogr>
+  <code_rome>K1403</code_rome>
+  <libelle>Management de structure de santé, sociale ou pénitentiaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>382</code_ogr>
+  <code_rome>K1404</code_rome>
+  <libelle>Mise en oeuvre et pilotage de la politique des pouvoirs publics</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>383</code_ogr>
+  <code_rome>K1405</code_rome>
+  <libelle>Représentation de l'Etat sur le territoire national ou international</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>384</code_ogr>
+  <code_rome>K1501</code_rome>
+  <libelle>Application des règles financières publiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>385</code_ogr>
+  <code_rome>K1502</code_rome>
+  <libelle>Contrôle et inspection des Affaires Sociales</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>386</code_ogr>
+  <code_rome>K1503</code_rome>
+  <libelle>Contrôle et inspection des impôts</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>387</code_ogr>
+  <code_rome>K1504</code_rome>
+  <libelle>Contrôle et inspection du Trésor Public</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>388</code_ogr>
+  <code_rome>K1505</code_rome>
+  <libelle>Protection des consommateurs et contrôle des échanges commerciaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>389</code_ogr>
+  <code_rome>K1601</code_rome>
+  <libelle>Gestion de l'information et de la documentation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>390</code_ogr>
+  <code_rome>K1602</code_rome>
+  <libelle>Gestion de patrimoine culturel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>391</code_ogr>
+  <code_rome>K1701</code_rome>
+  <libelle>Personnel de la Défense</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>392</code_ogr>
+  <code_rome>K1702</code_rome>
+  <libelle>Direction de la sécurité civile et des secours</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>393</code_ogr>
+  <code_rome>K1703</code_rome>
+  <libelle>Direction opérationnelle de la défense</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>394</code_ogr>
+  <code_rome>K1704</code_rome>
+  <libelle>Management de la sécurité publique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>395</code_ogr>
+  <code_rome>K1705</code_rome>
+  <libelle>Sécurité civile et secours</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>396</code_ogr>
+  <code_rome>K1706</code_rome>
+  <libelle>Sécurité publique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>397</code_ogr>
+  <code_rome>K1707</code_rome>
+  <libelle>Surveillance municipale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>398</code_ogr>
+  <code_rome>K1801</code_rome>
+  <libelle>Conseil en emploi et insertion socioprofessionnelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>399</code_ogr>
+  <code_rome>K1802</code_rome>
+  <libelle>Développement local</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>400</code_ogr>
+  <code_rome>K1901</code_rome>
+  <libelle>Aide et médiation judiciaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>401</code_ogr>
+  <code_rome>K1902</code_rome>
+  <libelle>Collaboration juridique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>402</code_ogr>
+  <code_rome>K1903</code_rome>
+  <libelle>Défense et conseil juridique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>403</code_ogr>
+  <code_rome>K1904</code_rome>
+  <libelle>Magistrature</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>404</code_ogr>
+  <code_rome>K2101</code_rome>
+  <libelle>Conseil en formation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>405</code_ogr>
+  <code_rome>K2102</code_rome>
+  <libelle>Coordination pédagogique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>406</code_ogr>
+  <code_rome>K2103</code_rome>
+  <libelle>Direction d'établissement et d'enseignement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>407</code_ogr>
+  <code_rome>K2104</code_rome>
+  <libelle>Éducation et surveillance au sein d'établissements d'enseignement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>408</code_ogr>
+  <code_rome>K2105</code_rome>
+  <libelle>Enseignement artistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>409</code_ogr>
+  <code_rome>K2106</code_rome>
+  <libelle>Enseignement des écoles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>410</code_ogr>
+  <code_rome>K2107</code_rome>
+  <libelle>Enseignement général du second degré</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>411</code_ogr>
+  <code_rome>K2108</code_rome>
+  <libelle>Enseignement supérieur</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>412</code_ogr>
+  <code_rome>K2109</code_rome>
+  <libelle>Enseignement technique et professionnel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>413</code_ogr>
+  <code_rome>K2110</code_rome>
+  <libelle>Formation en conduite de véhicules</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>414</code_ogr>
+  <code_rome>K2111</code_rome>
+  <libelle>Formation professionnelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>415</code_ogr>
+  <code_rome>K2112</code_rome>
+  <libelle>Orientation scolaire et professionnelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>416</code_ogr>
+  <code_rome>K2201</code_rome>
+  <libelle>Blanchisserie industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>417</code_ogr>
+  <code_rome>K2202</code_rome>
+  <libelle>Lavage de vitres</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>418</code_ogr>
+  <code_rome>K2203</code_rome>
+  <libelle>Management et inspection en propreté de locaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>419</code_ogr>
+  <code_rome>K2204</code_rome>
+  <libelle>Nettoyage de locaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>420</code_ogr>
+  <code_rome>K2301</code_rome>
+  <libelle>Distribution et assainissement d'eau</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>421</code_ogr>
+  <code_rome>K2302</code_rome>
+  <libelle>Management et inspection en environnement urbain</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>422</code_ogr>
+  <code_rome>K2303</code_rome>
+  <libelle>Nettoyage des espaces urbains</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>423</code_ogr>
+  <code_rome>K2304</code_rome>
+  <libelle>Revalorisation de produits industriels</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>424</code_ogr>
+  <code_rome>K2305</code_rome>
+  <libelle>Salubrité et traitement de nuisibles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>425</code_ogr>
+  <code_rome>K2306</code_rome>
+  <libelle>Supervision d'exploitation éco-industrielle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>426</code_ogr>
+  <code_rome>K2401</code_rome>
+  <libelle>Recherche en sciences de l'homme et de la société</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>427</code_ogr>
+  <code_rome>K2402</code_rome>
+  <libelle>Recherche en sciences de l'univers, de la matière et du vivant</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>428</code_ogr>
+  <code_rome>K2501</code_rome>
+  <libelle>Gardiennage de locaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>429</code_ogr>
+  <code_rome>K2502</code_rome>
+  <libelle>Management de sécurité privée</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>430</code_ogr>
+  <code_rome>K2503</code_rome>
+  <libelle>Sécurité et surveillance privées</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>431</code_ogr>
+  <code_rome>K2601</code_rome>
+  <libelle>Conduite d'opérations funéraires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>432</code_ogr>
+  <code_rome>K2602</code_rome>
+  <libelle>Conseil en services funéraires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>433</code_ogr>
+  <code_rome>K2603</code_rome>
+  <libelle>Thanatopraxie</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>435</code_ogr>
+  <code_rome>L1101</code_rome>
+  <libelle>Animation musicale et scénique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>436</code_ogr>
+  <code_rome>L1102</code_rome>
+  <libelle>Mannequinat et pose artistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>437</code_ogr>
+  <code_rome>L1103</code_rome>
+  <libelle>Présentation de spectacles ou d'émissions</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>438</code_ogr>
+  <code_rome>L1201</code_rome>
+  <libelle>Danse</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>439</code_ogr>
+  <code_rome>L1202</code_rome>
+  <libelle>Musique et chant</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>440</code_ogr>
+  <code_rome>L1203</code_rome>
+  <libelle>Art dramatique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>441</code_ogr>
+  <code_rome>L1204</code_rome>
+  <libelle>Arts du cirque et arts visuels</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>442</code_ogr>
+  <code_rome>L1301</code_rome>
+  <libelle>Mise en scène de spectacles vivants</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>443</code_ogr>
+  <code_rome>L1302</code_rome>
+  <libelle>Production et administration spectacle, cinéma et audiovisuel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>444</code_ogr>
+  <code_rome>L1303</code_rome>
+  <libelle>Promotion d'artistes et de spectacles</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>445</code_ogr>
+  <code_rome>L1304</code_rome>
+  <libelle>Réalisation cinématographique et audiovisuelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>446</code_ogr>
+  <code_rome>L1401</code_rome>
+  <libelle>Sportif professionnel</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>447</code_ogr>
+  <code_rome>L1501</code_rome>
+  <libelle>Coiffure et maquillage spectacle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>448</code_ogr>
+  <code_rome>L1502</code_rome>
+  <libelle>Costume et habillage spectacle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>449</code_ogr>
+  <code_rome>L1503</code_rome>
+  <libelle>Décor et accessoires spectacle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>450</code_ogr>
+  <code_rome>L1504</code_rome>
+  <libelle>Éclairage spectacle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>451</code_ogr>
+  <code_rome>L1505</code_rome>
+  <libelle>Image cinématographique et télévisuelle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>452</code_ogr>
+  <code_rome>L1506</code_rome>
+  <libelle>Machinerie spectacle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>453</code_ogr>
+  <code_rome>L1507</code_rome>
+  <libelle>Montage audiovisuel et post-production</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>454</code_ogr>
+  <code_rome>L1508</code_rome>
+  <libelle>Prise de son et sonorisation</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>455</code_ogr>
+  <code_rome>L1509</code_rome>
+  <libelle>Régie générale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>456</code_ogr>
+  <code_rome>M1101</code_rome>
+  <libelle>Achats</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>457</code_ogr>
+  <code_rome>M1102</code_rome>
+  <libelle>Direction des achats</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>458</code_ogr>
+  <code_rome>M1201</code_rome>
+  <libelle>Analyse et ingénierie financière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>459</code_ogr>
+  <code_rome>M1202</code_rome>
+  <libelle>Audit et contrôle comptables et financiers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>460</code_ogr>
+  <code_rome>M1203</code_rome>
+  <libelle>Comptabilité</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>461</code_ogr>
+  <code_rome>M1204</code_rome>
+  <libelle>Contrôle de gestion</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>462</code_ogr>
+  <code_rome>M1205</code_rome>
+  <libelle>Direction administrative et financière</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>463</code_ogr>
+  <code_rome>M1206</code_rome>
+  <libelle>Management de groupe ou de service comptable</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>464</code_ogr>
+  <code_rome>M1207</code_rome>
+  <libelle>Trésorerie et financement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>465</code_ogr>
+  <code_rome>M1301</code_rome>
+  <libelle>Direction de grande entreprise ou d'établissement public</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>466</code_ogr>
+  <code_rome>M1302</code_rome>
+  <libelle>Direction de petite ou moyenne entreprise</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>467</code_ogr>
+  <code_rome>M1401</code_rome>
+  <libelle>Conduite d'enquêtes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>468</code_ogr>
+  <code_rome>M1402</code_rome>
+  <libelle>Conseil en organisation et management d'entreprise</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>469</code_ogr>
+  <code_rome>M1403</code_rome>
+  <libelle>Études et prospectives socio-économiques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>470</code_ogr>
+  <code_rome>M1404</code_rome>
+  <libelle>Management et gestion d'enquêtes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>471</code_ogr>
+  <code_rome>M1501</code_rome>
+  <libelle>Assistanat en ressources humaines</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>472</code_ogr>
+  <code_rome>M1502</code_rome>
+  <libelle>Développement des ressources humaines</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>473</code_ogr>
+  <code_rome>M1503</code_rome>
+  <libelle>Management des ressources humaines</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>474</code_ogr>
+  <code_rome>M1601</code_rome>
+  <libelle>Accueil et renseignements</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>475</code_ogr>
+  <code_rome>M1602</code_rome>
+  <libelle>Opérations administratives</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>476</code_ogr>
+  <code_rome>M1603</code_rome>
+  <libelle>Distribution de documents</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>477</code_ogr>
+  <code_rome>M1604</code_rome>
+  <libelle>Assistanat de direction</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>478</code_ogr>
+  <code_rome>M1605</code_rome>
+  <libelle>Assistanat technique et administratif</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>479</code_ogr>
+  <code_rome>M1606</code_rome>
+  <libelle>Saisie de données</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>480</code_ogr>
+  <code_rome>M1607</code_rome>
+  <libelle>Secrétariat</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>481</code_ogr>
+  <code_rome>M1608</code_rome>
+  <libelle>Secrétariat comptable</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>482</code_ogr>
+  <code_rome>M1609</code_rome>
+  <libelle>Secrétariat et assistanat médical ou médico-social</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>483</code_ogr>
+  <code_rome>M1701</code_rome>
+  <libelle>Administration des ventes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>484</code_ogr>
+  <code_rome>M1702</code_rome>
+  <libelle>Analyse de tendance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>485</code_ogr>
+  <code_rome>M1703</code_rome>
+  <libelle>Management et gestion de produit</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>486</code_ogr>
+  <code_rome>M1704</code_rome>
+  <libelle>Management relation clientèle</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>487</code_ogr>
+  <code_rome>M1705</code_rome>
+  <libelle>Marketing</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>488</code_ogr>
+  <code_rome>M1706</code_rome>
+  <libelle>Promotion des ventes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>489</code_ogr>
+  <code_rome>M1707</code_rome>
+  <libelle>Stratégie commerciale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>490</code_ogr>
+  <code_rome>M1801</code_rome>
+  <libelle>Administration de systèmes d'information</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>491</code_ogr>
+  <code_rome>M1802</code_rome>
+  <libelle>Expertise et support en systèmes d'information</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>492</code_ogr>
+  <code_rome>M1803</code_rome>
+  <libelle>Direction des systèmes d'information</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>493</code_ogr>
+  <code_rome>M1804</code_rome>
+  <libelle>Études et développement de réseaux de télécoms</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>494</code_ogr>
+  <code_rome>M1805</code_rome>
+  <libelle>Études et développement informatique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>495</code_ogr>
+  <code_rome>M1806</code_rome>
+  <libelle>Conseil et maîtrise d'ouvrage en systèmes d'information</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>496</code_ogr>
+  <code_rome>M1807</code_rome>
+  <libelle>Exploitation de systèmes de communication et de commandement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>497</code_ogr>
+  <code_rome>M1808</code_rome>
+  <libelle>Information géographique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>498</code_ogr>
+  <code_rome>M1809</code_rome>
+  <libelle>Information météorologique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>499</code_ogr>
+  <code_rome>M1810</code_rome>
+  <libelle>Production et exploitation de systèmes d'information</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>500</code_ogr>
+  <code_rome>N1101</code_rome>
+  <libelle>Conduite d'engins de déplacement des charges</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>501</code_ogr>
+  <code_rome>N1102</code_rome>
+  <libelle>Déménagement</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>502</code_ogr>
+  <code_rome>N1103</code_rome>
+  <libelle>Magasinage et préparation de commandes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>503</code_ogr>
+  <code_rome>N1104</code_rome>
+  <libelle>Manoeuvre et conduite d'engins lourds de manutention</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>504</code_ogr>
+  <code_rome>N1105</code_rome>
+  <libelle>Manutention manuelle de charges</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>505</code_ogr>
+  <code_rome>N1201</code_rome>
+  <libelle>Affrètement transport</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>506</code_ogr>
+  <code_rome>N1202</code_rome>
+  <libelle>Gestion des opérations de circulation internationale des marchandises</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>507</code_ogr>
+  <code_rome>N1301</code_rome>
+  <libelle>Conception et organisation de la chaîne logistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>508</code_ogr>
+  <code_rome>N1302</code_rome>
+  <libelle>Direction de site logistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>509</code_ogr>
+  <code_rome>N1303</code_rome>
+  <libelle>Intervention technique d'exploitation logistique</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>510</code_ogr>
+  <code_rome>N2101</code_rome>
+  <libelle>Navigation commerciale aérienne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>511</code_ogr>
+  <code_rome>N2102</code_rome>
+  <libelle>Pilotage et navigation technique aérienne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>512</code_ogr>
+  <code_rome>N2201</code_rome>
+  <libelle>Personnel d'escale aéroportuaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>513</code_ogr>
+  <code_rome>N2202</code_rome>
+  <libelle>Contrôle de la navigation aérienne</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>514</code_ogr>
+  <code_rome>N2203</code_rome>
+  <libelle>Exploitation des pistes aéroportuaires</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>515</code_ogr>
+  <code_rome>N2204</code_rome>
+  <libelle>Préparation des vols</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>516</code_ogr>
+  <code_rome>N2205</code_rome>
+  <libelle>Direction d'escale et exploitation aéroportuaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>517</code_ogr>
+  <code_rome>N3101</code_rome>
+  <libelle>Encadrement de la navigation maritime</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>518</code_ogr>
+  <code_rome>N3102</code_rome>
+  <libelle>Equipage de la navigation maritime</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>519</code_ogr>
+  <code_rome>N3103</code_rome>
+  <libelle>Navigation fluviale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>520</code_ogr>
+  <code_rome>N3201</code_rome>
+  <libelle>Exploitation des opérations portuaires et du transport maritime</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>521</code_ogr>
+  <code_rome>N3202</code_rome>
+  <libelle>Exploitation du transport fluvial</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>522</code_ogr>
+  <code_rome>N3203</code_rome>
+  <libelle>Manutention portuaire</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>523</code_ogr>
+  <code_rome>N4101</code_rome>
+  <libelle>Conduite de transport de marchandises sur longue distance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>524</code_ogr>
+  <code_rome>N4102</code_rome>
+  <libelle>Conduite de transport de particuliers</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>525</code_ogr>
+  <code_rome>N4103</code_rome>
+  <libelle>Conduite de transport en commun sur route</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>526</code_ogr>
+  <code_rome>N4104</code_rome>
+  <libelle>Courses et livraisons express</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>527</code_ogr>
+  <code_rome>N4105</code_rome>
+  <libelle>Conduite et livraison par tournées sur courte distance</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>528</code_ogr>
+  <code_rome>N4201</code_rome>
+  <libelle>Direction d'exploitation des transports routiers de marchandises</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>529</code_ogr>
+  <code_rome>N4202</code_rome>
+  <libelle>Direction d'exploitation des transports routiers de personnes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>530</code_ogr>
+  <code_rome>N4203</code_rome>
+  <libelle>Intervention technique d'exploitation des transports routiers de marchandises</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>531</code_ogr>
+  <code_rome>N4204</code_rome>
+  <libelle>Intervention technique d'exploitation des transports routiers de personnes</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>532</code_ogr>
+  <code_rome>N4301</code_rome>
+  <libelle>Conduite sur rails</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>533</code_ogr>
+  <code_rome>N4302</code_rome>
+  <libelle>Contrôle des transports en commun</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>534</code_ogr>
+  <code_rome>N4401</code_rome>
+  <libelle>Circulation du réseau ferré</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>535</code_ogr>
+  <code_rome>N4402</code_rome>
+  <libelle>Exploitation et manoeuvre des remontées mécaniques</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>536</code_ogr>
+  <code_rome>N4403</code_rome>
+  <libelle>Manoeuvre du réseau ferré</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>28964</code_ogr>
+  <code_rome>K1305</code_rome>
+  <libelle>Intervention sociale et familiale</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+ <item_referentiel_code_rome>
+  <code_ogr>39022</code_ogr>
+  <code_rome>L1510</code_rome>
+  <libelle>Films d'animation et effets spéciaux</libelle>
+  <statut1>1</statut1>
+ </item_referentiel_code_rome>
+</ogr>
